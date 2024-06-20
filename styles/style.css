@@ -16,11 +16,11 @@ div.pf_b {
     h1 {
         font-size: 24px;
     }
-}
+
 
 div.profile_table {
     display: flex;
-    justify-content: center;
+    justify-content: center;}
 
     div.profile_table_detail {
         h2 {
@@ -30,7 +30,7 @@ div.profile_table {
         table {
             border: solid rgb(144, 140, 140);
             padding: 24px;
-            text-align: center;
+            text-align: center;}
             
             div.pf_nt {
                 display: flex;
@@ -50,7 +50,7 @@ div.profile_table {
                 h1 {
                     font-size: 24px;
                 }
-            }
+            
             
             div.profile_table {
                 display: flex;
@@ -71,12 +71,4 @@ div.profile_table {
                         border: solid rgb(131, 124, 124);
                         width: 200px;
                     }
-                }
-            }
-        }
-
-        td {
-            border: solid rgb(114, 114, 114);
-            width: 200px;
-        }
-    }
+          
